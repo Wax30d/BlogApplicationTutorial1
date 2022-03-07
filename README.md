@@ -1,4 +1,4 @@
-# Blog Application Tutorial.
+# Blog Application Tutorial 1.
 
 Nice tutorial for Django MVT architecture.
 
